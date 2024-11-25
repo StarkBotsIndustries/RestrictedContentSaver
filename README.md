@@ -27,7 +27,7 @@ Follow these steps to clone and run the bot on your local machine.
 
 ---
 
-### Installation Steps
+### Installation Steps (Python 3.11 or below)
 
 1. **Clone the Repository**  
    ```bash
