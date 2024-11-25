@@ -1,0 +1,2 @@
+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.32.zip
+python-dotenv
